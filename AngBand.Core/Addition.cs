@@ -1,7 +1,4 @@
-﻿using System;
-
-
-namespace AngBand.Core2
+﻿namespace AngBand.Core
 {
     public class Addition
     {
