@@ -1,3 +1,4 @@
+using AngBand.Core2;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AngBand.Core.Test

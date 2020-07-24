@@ -1,20 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace AngBand.Core
+
+namespace AngBand.Core2
 {
     public class Addition
     {
-        public class Somme
+        static void Main(string[] args)
         {
-            public Somme(IEnumerable<int> elements)
-            {
-                Resultat = 0;
-                foreach (var element in elements) Resultat += element;
-            }
-
-            public long Resultat { get; }
         }
+        public Addition(int a, int b)
+        {
+            Resultat = a + b;
+        }
+
+        public long Resultat { get; }
     }
 }
     

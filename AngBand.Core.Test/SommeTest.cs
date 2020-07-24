@@ -1,5 +1,4 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using static AngBand.Core.Addition;
 using System.Linq;
 
 namespace AngBand.Core.Test
