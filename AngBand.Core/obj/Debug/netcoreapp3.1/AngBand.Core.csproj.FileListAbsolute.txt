@@ -1,0 +1,13 @@
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\bin\Debug\netcoreapp3.1\AngBand.Core.exe
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\bin\Debug\netcoreapp3.1\AngBand.Core.deps.json
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\bin\Debug\netcoreapp3.1\AngBand.Core.runtimeconfig.json
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\bin\Debug\netcoreapp3.1\AngBand.Core.runtimeconfig.dev.json
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\bin\Debug\netcoreapp3.1\AngBand.Core.dll
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\bin\Debug\netcoreapp3.1\AngBand.Core.pdb
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\obj\Debug\netcoreapp3.1\AngBand.Core.AssemblyInfoInputs.cache
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\obj\Debug\netcoreapp3.1\AngBand.Core.AssemblyInfo.cs
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\obj\Debug\netcoreapp3.1\AngBand.Core.csproj.CoreCompileInputs.cache
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\obj\Debug\netcoreapp3.1\AngBand.Core.dll
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\obj\Debug\netcoreapp3.1\AngBand.Core.pdb
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\obj\Debug\netcoreapp3.1\AngBand.Core.genruntimeconfig.cache
+C:\Users\sedup\source\repos\AngBand.Core\AngBand.Core\obj\Debug\netcoreapp3.1\AngBand.Core.csprojAssemblyReference.cache
