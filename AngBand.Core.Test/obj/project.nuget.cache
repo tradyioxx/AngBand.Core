@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1bF0DOEwmVNqiy44yy32voWHZoJpTOzVvvimR4CxacBDnBWlL0w9DKmsC/Gyn8k7MD03a64wCLiUHOXSB1Gu2A==",
+  "dgSpecHash": "pxU3GH4C3H/BbmaaoV+31CPI+Jj+P2nNkmfEMD7yM6bEA4l/fv5jzGPcw+NHUtnKtwi3TczFw3QhmdPpiHiRZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sedup\\source\\repos\\AngBand.Core\\AngBand.Core.Test\\AngBand.Core.Test.csproj",
   "expectedPackageFiles": [
@@ -90,7 +90,8 @@
     "C:\\Users\\sedup\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\sedup\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\sedup\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\sedup\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\sedup\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\sedup\\.nuget\\packages\\angband.core\\1.0.0\\angband.core.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
